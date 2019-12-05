@@ -11,4 +11,4 @@ In this project we created a program called fillit wich allow you to take as a p
 
 ## Program structure
 
-![](https://github.com/Luigian/Fillit/raw/master/resources/images/fillit_flowchart.png)
+![](https://sun9-61.userapi.com/c853520/v853520560/1918eb/fH3-uUsYsBM.jpg)
